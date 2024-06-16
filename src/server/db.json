@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://via.placeholder.com/300?text=Product+1",
+      "text": "Product 1"
+    },
+    {
+      "id": 2,
+      "image": "https://via.placeholder.com/300?text=Product+2",
+      "text": "Product 2"
+    },
+    {
+      "id": 3,
+      "image": "https://via.placeholder.com/300?text=Product+3",
+      "text": "Product 3"
+    }
+  ]
+}

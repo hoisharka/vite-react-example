@@ -1,0 +1,18 @@
+.slider-container {
+  width: 80%;
+  margin: auto;
+}
+
+.slide {
+  text-align: center;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+}
+
+.slide p {
+  margin-top: 10px;
+  font-size: 1.2em;
+}
